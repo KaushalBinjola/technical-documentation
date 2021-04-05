@@ -1,0 +1,1 @@
+Made a copy of website https://codepen.io/freeCodeCamp/full/NdrKKL as practice.
